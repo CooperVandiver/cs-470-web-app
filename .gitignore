@@ -1,0 +1,7 @@
+Include
+Lib
+Scripts
+share
+tailwind.config.js
+**/__pycache__
+**/qlora
